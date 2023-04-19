@@ -180,10 +180,12 @@ print(z)
 
 print(datetime.fromtimestamp(z),"\n","----"*24)
 
+
 """
    İki Tarih Arasındaki Farkı Bulmak
 ------------------------------------------
 """
+
 
 sonuc = a - c
 print(a)
@@ -191,6 +193,7 @@ print(c)
 print("gün farkı: ",sonuc.days)
 
 print("----"*24)
+
 """
   İleri Bir Tarihi Bulmak-Geçmiş Bir Tarihi Bulmak
 ------------------------------------------------------
